@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>oday is a big day for&nbsp;<em>Microsoft Flight Simulator</em>&nbsp;fans, as helicopters and gliders finally take to the skies in the 40th Anniversary Edition of the game. While these two new ways to fly are highly requested additions, it has taken extraordinary attention to detail and craft from French studio Asobo to make helicopters and gliders a reality in&nbsp;<em>Microsoft Flight Simulator</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“We didn’t do this all by ourselves,” Microsoft’s head of&nbsp;<em>Flight Simulator</em>&nbsp;Jorg Neumann tells me in an interview. “This 40th Anniversary Edition really is a joint effort between Asobo and 10 other creative teams all coming together to make this the perfect gift for flight sim fans all over the world.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Players are getting the Airbus A310 for free today, alongside two new helicopters, two gliders, seven famous historical aircraft, classic airports, and more than 20 classic missions from past versions of&nbsp;<em>Flight Simulator</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2160/2400x1350/filters:focal(1920x1080:1921x1081):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24187472/03_Bell_407.jpg" alt="A helicopter in Microsoft Flight Simulator"/><figcaption class="wp-element-caption"><em>The Bell 407 helicopter.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The helicopters, in particular, were challenging to add to&nbsp;<em>Microsoft Flight Simulator</em>. While the game was developed with planes in mind, there was always a desire to add more. “There’s never really been a really great helicopter sim,” says Neumann. “The manufacturers tell us that, too.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And there’s a good reason for that: it’s hard. The physics involved with helicopters is far more complex than propeller planes or huge airliners like the Airbus A310. Helicopters are a totally different beast. Asobo has spent a long time meticulously examining the aerodynamics of helicopters and replicating them in&nbsp;<em>Microsoft Flight Simulator</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The way the airflow works on a helicopter is largely from the top down. “It comes from the rotors and pushes down on the helicopter, so we had to increase the resolution of the specific turbulences a lot more around the actual helicopter.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Things like translation lift have been perfected in-game to allow helicopters to realistically move from a hovering state to forward flight. That sounds simple, but it involves coding exactly how rotor systems react to turbulence and vortices created by hovering flight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The&nbsp;<em>Microsoft Flight Simulator</em>&nbsp;team worked closely with helicopter manufacturers like Guimbal, also based in France. “We got full access to the manufacturing team, to their flight data, and we talked to their test pilots,” says Neumann. “That makes a huge difference when you’re trying to make something accurate.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2160/2400x1350/filters:focal(1920x1080:1921x1081):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24187481/15_Volocopter_VoloCity.jpg" alt="One of 14 helipads in Microsoft Flight Simulator."/><figcaption class="wp-element-caption"><em>One of 14 helipads in&nbsp;</em>Microsoft Flight Simulator<em>.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Even dissymmetry of lift is covered in the game, which in rotorcraft aerodynamics, is the unequal amount of lift on opposite sides of a rotor disc. “In our case, it means you have to do something like flapping, which is essentially a hinge where the motor blades hang on and the hinges go up and down,” says Neumann. “These things go up and down and bend and tilt. This all had to be completely rewritten. It has never really existed before in a flight sim like this.”</p>
+<!-- /wp:paragraph -->
